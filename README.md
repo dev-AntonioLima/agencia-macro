@@ -19,17 +19,17 @@ O site deverá conter os produtos como um post personalizado, para fins de teste
 <img src="./imgReadme/#">
 </p>
 
-01 - PRODUTOS:
+02 - PRODUTOS:
 <p align="center">
 <img src="./imgReadme/#">
 </p>
 
-01 - CONTATO:
+03 - CONTATO:
 <p align="center">
 <img src="./imgReadme/#">
 </p>
 
-01 - QUEM SOMOS:
+04 - QUEM SOMOS:
 <p align="center">
 <img src="./imgReadme/#">
 </p>
