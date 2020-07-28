@@ -13,3 +13,23 @@ O teste será transformar os PSDs enviados em um Wordpress, prezando qualidade d
 
 O site deverá conter os produtos como um post personalizado, para fins de teste, e o formulário de contato precisará ser enviado via ajax. Para criação de um tipo de post e o contato não poderá ser usado plugins, para que possamos analisar melhor o código. 
 <p>
+
+01 - HOME:
+<p align="center">
+<img src="./imgReadme/#">
+</p>
+
+01 - PRODUTOS:
+<p align="center">
+<img src="./imgReadme/#">
+</p>
+
+01 - CONTATO:
+<p align="center">
+<img src="./imgReadme/#">
+</p>
+
+01 - QUEM SOMOS:
+<p align="center">
+<img src="./imgReadme/#">
+</p>
