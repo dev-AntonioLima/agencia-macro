@@ -1,6 +1,9 @@
 # Agência Macro
 <p align="center">
 <img src="./imgReadme/logoMacro.jpeg">
+</p>
+
+<p align="center">
 Explicação do Teste que será aplicado: 
 
 Montar a Home, Página de Produtos, Página de Contato e Página de Quem somos.
@@ -16,5 +19,4 @@ Link
 
 Obs³: Os arquivos PSDs para o teste estão em anexo no link abaixo e divididos em Desk e Mobile para facilitar: 
 https://we.tl/t-NP4oamZIjG
-</p>
-
+<p>
