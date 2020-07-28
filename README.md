@@ -1,5 +1,5 @@
-# Agência Macro
-Agência destinada ao processo seletivo do Grupo Macro.
+---------------------------------------------------------------------- Agência Macro -------------------------------------------------------------------------------
+---------------------------------------------------Agência destinada ao processo seletivo do Grupo Macro.-----------------------------------------------------------
 <p align="center">
 <img src="./imgReadme/logoMacro.jpeg">
 </p>
