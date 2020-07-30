@@ -12,19 +12,19 @@ O site deverá conter os produtos como um post personalizado, para fins de teste
 <p>
 01 - HOME:
 <p align="center">
-<img src="./imgReadme/#">
+<img src="./imgReadme/01.png">
 </p>
 02 - PRODUTOS:
 <p align="center">
-<img src="./imgReadme/#">
+<img src="./imgReadme/02.png">
 </p>
 
 03 - CONTATO:
 <p align="center">
-<img src="./imgReadme/#">
+<img src="./imgReadme/03.png">
 </p>
 
 04 - QUEM SOMOS:
 <p align="center">
-<img src="./imgReadme/#">
+<img src="./imgReadme/04.png">
 </p>
