@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Início</title>
+<title>Contato</title>
 
 <!-- FONTS -->
 <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700&display=swap" rel="stylesheet">
@@ -61,23 +61,52 @@ crossorigin="anonymous"></script>
 
 </header>
 
+<h1>Fale com o <img id="logo" src="./img/logo.png" alt="logo"></h1>
 
 
+<!-- FORMULÁRIO -->
 <form action="/action_page.php">
     
-    <input type="text" id="fname" name="fname" placeholder="Nome" ><br>
+<div class="container">
+<form>
 
-    <input type="text" id="lname" name="lname" placeholder="Email" ><br>
 
-    <input type="text" id="lname" name="lname"  ><br><br>
-    <input type="submit" value="Submit">
-  </form>
+<!-- CAMPO NOME  -->                         
+<div class="row">
+<div class="form-group col-xs-6 col md-6 col-lg-6 col-xl-6">
+<input type="text" id="idnome"
+name="txtnome" placeholder="Nome"class="form-control"/>
+</div>
+</div>
+    
+<!-- CAMPO EMAIL  -->
+<div class="row">     
+<div class="form-group col-xs-6 col md-6 col-lg-6 col-xl-6">
+<input type="email" id="idmail"
+name="txtEmail"
+placeholder="E-mail"
+class="form-control"/>
+</div>
+</div>
 
-<!-- WELCOME -->
+<!-- CAMPO MENSAGEM -->
+<div class="row">
+<div class="form-group col-xs-6 col md-6 col-lg-6 col-xl-6">    
+<textarea name="mensagem" cols="200" rows="10" placeholder="Mensagem"  class="form-control"maxlength="255"></textarea>
+</div>
+</div>
+
+</form>
+    
+        
+<input type="submit" value="Gravar" class="btn btn-primary" /> 
+</div>
+
+
 
 <!-- FOOTER -->
 <div class="footer">
-<span><img id="logo" src="./img/logo.png" alt="logo">Fale com o autor: (21) 997347157</span>
+<span><img id="logo" src="./img/logo.png" alt="logo">   <i class="fa fa-instagram" aria-hidden="true"></i>   Fale com o autor: (21) 997347157</span>
 </div>
 
 </body>
