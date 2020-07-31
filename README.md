@@ -1,10 +1,10 @@
 # Agência Macro
 
 # Prazo: 31/07
-<p align="left">
+<p align="center">
 <img src="./imgReadme/logoMacro.jpeg">
 </p>
-<p align="center">
+<p align="left">
 Explicação do Teste que será aplicado: 
 Montar a Home, Página de Produtos, Página de Contato e Página de Quem somos.
 O teste será transformar os PSDs enviados em um Wordpress, prezando qualidade de responsividade, código semântico e sua identação. Será um plus analisado caso seja usado no projeto Bootstrap 4/3 para montar o html, mas não será um item obrigatório.
