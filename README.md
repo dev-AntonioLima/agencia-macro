@@ -1,7 +1,7 @@
 # Agência Macro
 
 # Prazo: 31/07
-<p align="center">
+<p align="left">
 <img src="./imgReadme/logoMacro.jpeg">
 </p>
 <p align="center">
