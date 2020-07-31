@@ -12,24 +12,24 @@ O site deverá conter os produtos como um post personalizado, para fins de teste
 <p>
 
 <p align="center">
-<h1>Home<h1>
+<h1>Home (Desktop)<h1>
 <img src="./imgReadme/01.png">
 </p>
 
 
 <p align="center">
-<h1>Produtos<h1>
+<h1>Produtos (Desktop)<h1>
 <img src="./imgReadme/02.png">
 </p>
 
 
 <p align="center">
-<h1>Contato<h1>
+<h1>Contato (Desktop)<h1>
 <img src="./imgReadme/03.png">
 </p>
 
 
 <p align="center">
-<h1>Quem Somos<h1>
+<h1>Quem Somos (Desktop)<h1>
 <img src="./imgReadme/04.png">
 </p>
