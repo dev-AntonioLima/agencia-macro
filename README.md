@@ -1,6 +1,6 @@
 # Agência Macro
 
-# Prazo: 31/07
+# Prazo: 03/08
 <p align="center">
 <img src="./imgReadme/logoMacro.jpeg">
 </p>
@@ -32,4 +32,24 @@ O site deverá conter os produtos como um post personalizado, para fins de teste
 <p align="center">
 <h1>Quem Somos (Desktop)<h1>
 <img src="./imgReadme/04.png">
+</p
+  
+<p align="center">
+<h1>Início (Mobile)<h1>
+<img src="./imgReadme/05.png">
+</p> 
+  
+<p align="center">
+<h1>Produtos (Mobile)<h1>
+<img src="./imgReadme/06.png">
+</p>  
+  
+<p align="center">
+<h1>Contato (Mobile)<h1>
+<img src="./imgReadme/07.png">
+</p>  
+
+<p align="center">
+<h1>Quem Somos (Mobile)<h1>
+<img src="./imgReadme/08.png">
 </p>
