@@ -35,7 +35,7 @@ O site deverá conter os produtos como um post personalizado, para fins de teste
 </p
   
 <p align="center">
-<h1>Início (Mobile)<h1>
+<h1>Home (Mobile)<h1>
 <img src="./imgReadme/05.png">
 </p> 
   
