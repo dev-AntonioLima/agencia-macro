@@ -55,8 +55,7 @@ color: rgb(204, 13, 13);
               
 #navbar-links a:hover{
 color: #FFF;
-background: #62676c;
-box-shadow: 0 0 10px #5f6264, 0 0 10px
+
 }
         
               
@@ -76,16 +75,6 @@ margin-left: 20%;
 
 
 
-
-
-
-
-
-
-
-
-
-
 p, li{
 color: rgb(255, 255, 255);
 font-size: 18px;
@@ -96,6 +85,9 @@ text-align: center;bottom: 20px;
 color: #FFF;
 font-size: 33px;
 text-align: center;
+margin-top: 2%;
+
+
 }
 
 .h3contato{
@@ -104,6 +96,7 @@ font-size: 18px;
 text-align: center;
 margin-left: 0%;
 margin-right: 20%;
+margin-bottom: 5%;
 }
 
 
@@ -124,7 +117,7 @@ margin-bottom: 0%;
 
     
 form{
-margin-top: 5%;
+margin-top: 2%;
 margin-bottom: 5%;
 margin-left: 30%;
 }
@@ -135,6 +128,13 @@ border-radius: 5%;
 padding: 1%;
 }
 
+.btn-contato {
+margin-top: 1%;
+margin-bottom: 10%;
+margin-left: 30%;
+border-radius: 5%;
+padding: 1%;  
+}
 
 
 i{
