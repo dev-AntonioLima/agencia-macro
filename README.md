@@ -4,7 +4,7 @@
 <p align="center">
 <img src="./imgReadme/logoMacro.jpeg">
 </p>
-<a href="https://dev-antoniolima.github.io/romflix"/>
+<a href="https://dev-antoniolima.github.io/agencia-macro/quemSomos.html"/>
 <img src="https://img.shields.io/badge/-Acesse%20o%20Site-blue">
 </a>                      
 <p align="left">
